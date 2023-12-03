@@ -11,10 +11,7 @@ bash
 Copy code
 git clone https://github.com/yourusername/object-tracking-cv2.git
 cd object-tracking-cv2
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
+
 Usage
 Run the object tracking script:
 
@@ -38,8 +35,6 @@ Evaluate the tracking performance by displaying metrics such as Frames Per Secon
 Contributing
 Contributions are welcome! If you have ideas for improvements, bug reports, or feature requests, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 The implementation is inspired by the OpenCV documentation and examples.
